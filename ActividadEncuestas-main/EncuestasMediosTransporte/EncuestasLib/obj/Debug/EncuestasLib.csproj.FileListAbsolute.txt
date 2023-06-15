@@ -1,0 +1,2 @@
+C:\Users\TUP\Desktop\ActividadEncuestas-main\EncuestasMediosTransporte\EncuestasLib\obj\Debug\EncuestasLib.csproj.AssemblyReference.cache
+C:\Users\TUP\Desktop\ActividadEncuestas-main\EncuestasMediosTransporte\EncuestasLib\obj\Debug\EncuestasLib.csproj.CoreCompileInputs.cache
